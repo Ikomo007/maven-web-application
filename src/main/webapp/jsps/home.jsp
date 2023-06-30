@@ -14,7 +14,7 @@
 	           We are raising millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
 	Class33 will start on June 28, 2023. </h1>
-<h1 align="center">Welcome to Excellent collection.</h1>
+<h1 align="center">Welcome to Excellent project.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
