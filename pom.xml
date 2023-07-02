@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.18.233:8081/repository/simon-release/</url>
+	      <url>http://18.218.27.81:8081/repository/simon-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.18.233:8081/repository/simon-snapshot/</url>
+	      <url>http://18.218.27.81:8081/repository/simon-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
